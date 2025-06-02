@@ -139,6 +139,8 @@ with open('static/index.html', 'w', encoding='utf-8') as f:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LinkedIn Text Formatter</title>
     <link rel="stylesheet" href="styles.css">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2905989940676776"
+     crossorigin="anonymous"></script>
 </head>
 <body>
     <div class="container">
